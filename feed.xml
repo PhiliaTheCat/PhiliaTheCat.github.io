@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Valaxy Theme Yun</title>
+        <link>https://valaxy.site/</link>
+        <description>Valaxy Theme Yun Preview.</description>
+        <lastBuildDate>Sun, 12 Feb 2023 09:24:40 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Valaxy Theme Yun</title>
+            <url>https://www.yunyoujun.cn/images/avatar.jpg</url>
+            <link>https://valaxy.site/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2023 © 云游君</copyright>
+        <atom:link href="https://valaxy.site/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[欢迎来到（名字待定中）]]></title>
+            <link>https://valaxy.site/posts/Welcome</link>
+            <guid>https://valaxy.site/posts/Welcome</guid>
+            <pubDate>Sun, 12 Feb 2023 09:24:14 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>自我介绍</h2>
+<p>我是天猫 <s>（别问为啥，问就是被群友迫害了）</s> ，武汉大学国家网络安全学院的一名本科生，专业方向是信息安全。</p>
+<p><s>如果你在现实世界认识我的话，下面的东西可以不用看了。</s></p>
+]]></content:encoded>
+            <author>i@valaxy.site (云游君)</author>
+        </item>
+    </channel>
+</rss>
