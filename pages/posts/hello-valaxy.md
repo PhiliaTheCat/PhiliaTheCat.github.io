@@ -1,4 +1,5 @@
 ---
+hide: true
 title: Hello, Valaxy!
 date: 2022-04-01
 updated: 2022-04-01
